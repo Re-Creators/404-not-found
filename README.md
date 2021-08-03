@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="404-challanges.netlify.app">
+    <a href="https://404-challanges.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://devchallenges.io/solutions/ko9wN9HFEK95DByXJ8hB">
       Solution
     </a>
     <span> | </span>
@@ -32,8 +32,8 @@
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
-
 ## Overview
+![404-not-found](https://user-images.githubusercontent.com/51537231/127993518-d1d7f6ea-e3f3-4d40-8f2d-98a68985925f.PNG)
 
 ## Features
 
